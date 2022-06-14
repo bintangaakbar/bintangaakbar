@@ -20,12 +20,12 @@ I'm a student at Telkom University that currently on computer science major. I'm
 - 💻 I have high interest in computerization and Tech.
 - 📚 I’m learning to discover more programming code languages.
 - 📫 If you need anything just ask me @ banugrah2@gmail.com.
-- 🎮 In my spare time, I ussualy play video games.
+- 🎮 In my spare time, I usually play video games.
 
 <br />
 
 
-#### Languages that I used.
+#### Languages that most I used.
 
 <p align="left"> 
 <!--     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
@@ -44,8 +44,7 @@ I'm a student at Telkom University that currently on computer science major. I'm
 
 <br />
 
-#### CONTACT AND CV
-<!-- - 📜 [My CV](https://drive.google.com/file/d/1uvtTvN3ImEQOm5Kqv7CKG6orVQSyYD01/view?usp=sharing) -->
+#### CONTACT
 - 📫 banugrah2@gmail.com
 
 
