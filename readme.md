@@ -2,7 +2,7 @@
 
 ## Hi My Name is Bintang
 
-I'm a student at Telkom University that currently on computer science major. I'm a new programmer that coding just for education purposes and looking for some fun.
+I'm a student at Telkom University that currently on computer science major. I'm a new programmer that coding just for education purposes.
 
 📫	 Hit Me Up!
 
