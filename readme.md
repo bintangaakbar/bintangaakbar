@@ -10,8 +10,6 @@ I'm a student at Telkom University that currently on computer science major. I'm
   <a href="https://www.instagram.com/bintang.aanugrah/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/HdG9ce69Ca" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:banugrah2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
 </div>
 
 <br />
@@ -23,7 +21,6 @@ I'm a student at Telkom University that currently on computer science major. I'm
 - 🎮 In my spare time, I usually play video games.
 
 <br />
-
 
 #### Languages that most I used.
 
@@ -47,14 +44,12 @@ I'm a student at Telkom University that currently on computer science major. I'm
 #### CONTACT
 - 📫 banugrah2@gmail.com
 
-
 #### Profile Visitor
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=bintangaakbar">
 </a>
 <a href="https://github.com/bintangaakbar?tab=followers"><img src="https://img.shields.io/github/followers/bintangaakbar?label=Followers&style=social" alt="GitHub Badge"></a>
-
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bintangaakbar&" alt="bintangaakbar" /></p>
